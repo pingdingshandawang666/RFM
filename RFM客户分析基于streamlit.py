@@ -12,7 +12,7 @@ st.caption("基于 R（最近购买）· F（购买频率）· M（消费金额�
 # ============ 读取数据 ============
 @st.cache_data
 def load_data():
-    df = pd.read_excel("原始sales.xlsx")
+    df = pd.read_excel(""D:\赵祎琳大信球\1\streamlit练习\原始sales.xlsx"")
     df["提交日期"] = pd.to_datetime(df["提交日期"])
     return df
 
