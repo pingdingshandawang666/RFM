@@ -1,5 +1,3 @@
-好的，按照 STAR 法则（Situation-Task-Action-Result）重新撰写 README，内容会更充实、更具说服力。以下是完整版本：
-
 📊 RFM 客户价值分析看板
 
 !https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white
